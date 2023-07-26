@@ -1,6 +1,11 @@
+# Instruções para o programa
 nome: "João"
 idade: 19
 
+# descrição do projeto
 objeto:
   versão: 2
   arquivo: "teste.txt"
+
+versão: 2
+versão_completa: 3.14
