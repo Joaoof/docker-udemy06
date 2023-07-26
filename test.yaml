@@ -1,0 +1,6 @@
+nome: "João"
+idade: 19
+
+objeto:
+  versão: 2
+  arquivo: "teste.txt"
